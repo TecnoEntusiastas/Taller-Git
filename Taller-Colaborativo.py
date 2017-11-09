@@ -3,7 +3,7 @@ def suma(a, b):
     return a+b
 # Restar 2 números naturales a y b (CARLOS)
 def resta(a, b):
-    pass
+    return a-b
 # Multiplicar 2 números naturales a y b (YURLEY)
 def multiplica(a, b):
     pass
