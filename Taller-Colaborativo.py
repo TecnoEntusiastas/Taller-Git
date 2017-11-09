@@ -1,4 +1,4 @@
-# Sumar 2 números naturales a y b (CAMILO)
+﻿# Sumar 2 números naturales a y b (CAMILO)
 def suma(a, b):
     pass
 # Restar 2 números naturales a y b (CARLOS)
@@ -9,4 +9,5 @@ def multiplica(a, b):
     pass
 # Divide 2 números naturales a y b (JHON)
 def dividir(a, b):
-    pass
+    g = a/b
+    return g
