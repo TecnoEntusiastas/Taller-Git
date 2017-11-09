@@ -10,4 +10,5 @@ def multiplica(a, b):
     return y	
 # Divide 2 números naturales a y b (JHON)
 def dividir(a, b):
-    pass
+    g = a/b
+    return g
