@@ -1,6 +1,6 @@
 # Sumar 2 números naturales a y b (CAMILO)
 def suma(a, b):
-    pass
+    return a+b
 # Restar 2 números naturales a y b (CARLOS)
 def resta(a, b):
     pass
